@@ -1,0 +1,12 @@
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\bin\Debug\net6.0\ECBGatewayLibrary.deps.json
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\bin\Debug\net6.0\ECBGatewayLibrary.dll
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\bin\Debug\net6.0\ECBGatewayLibrary.pdb
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.AssemblyInfo.cs
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.dll
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\refint\ECBGatewayLibrary.dll
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ECBGatewayLibrary.pdb
+C:\Users\alexa\Documents\Desenvolvimento\ECBProjectCodeNoviBet\ECBGatewayLibrary\obj\Debug\net6.0\ref\ECBGatewayLibrary.dll
